@@ -178,11 +178,11 @@ Special thanks to everyone who contributed to this project and made it a success
 
 Have questions or feedback? Feel free to reach out!
 
-📩 **Email:** your-email@example.com  
-🌐 **GitHub:** [your-username](https://github.com/your-username)  
+📩 **Email:** priyam.23bai11158@vitbhopal.ac.in
+🌐 **GitHub:** https://github.com/Priyamjain1105  
 
 ---
 
 ### ⭐ If you like this project, don't forget to give it a star! ⭐
 
-![Thank You](https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/wIVA0zh5pt0G5YtcAL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thanks-thank-you-appreciate-wIVA0zh5pt0G5YtcAL">via GIPHY</a></p>

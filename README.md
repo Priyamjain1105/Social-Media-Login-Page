@@ -129,11 +129,15 @@ git clone https://github.com/your-username/fullstack-social-media-dashboard.git
 ## 📂 Project Structure
 
 ### Frontend (`frontend/`):
+![image](https://github.com/user-attachments/assets/a0110136-c79a-4e7b-aad7-46207c5eee7c)
+
 - **`src/components/`**: React components for UI.
 - **`src/pages/`**: Pages like Login, Register, and Dashboard.
 - **`src/services/`**: API calls and data fetching utilities.
 
 ### Backend (`backend/`):
+![image](https://github.com/user-attachments/assets/99fa857f-0079-4547-a057-66ed8b44aca8)
+
 - **`app.py`**: Main Flask application.
 - **`models.py`**: Database models using Flask SQLAlchemy.
 - **`routes/`**: API endpoints for authentication and user management.

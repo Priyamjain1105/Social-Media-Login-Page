@@ -2,7 +2,8 @@
 
 Welcome to the **Full Stack Social Media Dashboard**! This project is a complete web application with both front-end and back-end integration. It allows users to register, log in, and interact with a robust and modern social media-like interface. Built using **React.js**, **Python Flask**, and **MySQL**, this dashboard is a showcase of cutting-edge web technologies. 🌐✨
 
-![Dashboard Animation](https://media.giphy.com/media/3o7TKsQnPO7EwlsGdy/giphy.gif)
+![image](https://github.com/user-attachments/assets/8a400952-5b5b-4e4c-bba2-25da90866cd2)
+
 
 ---
 

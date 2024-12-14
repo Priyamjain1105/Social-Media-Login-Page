@@ -185,4 +185,5 @@ Have questions or feedback? Feel free to reach out!
 
 ### ⭐ If you like this project, don't forget to give it a star! ⭐
 
-<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/wIVA0zh5pt0G5YtcAL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thanks-thank-you-appreciate-wIVA0zh5pt0G5YtcAL">via GIPHY</a></p>
+![image](https://github.com/user-attachments/assets/fa3119a8-11c8-49f2-921e-da282450b71b)
+
